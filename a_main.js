@@ -6,7 +6,7 @@ for (let i = 0; i <= 10000; i++) {
     if (i === 2500) {
         alert("A quarter of the way there!");
     } else if (i === 5000) {
-        alert("Halfway there!")
+        alert("Halfway there!");
     } else if (i === 10000) {
         alert("The loop is done!");
     }
